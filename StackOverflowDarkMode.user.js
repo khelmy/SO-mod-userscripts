@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Stack Exchange Dark Mode
 // @description  Dark theme for sites and chat on the Stack Exchange Network
-// @homepage     https://github.com/samliew/SO-mod-userscripts
-// @author       @samliew
-// @version      1.8.3
+// @homepage     https://github.com/khelmy/SO-mod-userscripts
+// @author       @khelmy
+// @version      0.0.1
 //
 // @include      https://*stackexchange.com/*
 // @include      https://*stackoverflow.com/*
