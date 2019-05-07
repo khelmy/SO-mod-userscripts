@@ -17,7 +17,6 @@
 // @include      https://chat.stackexchange.com/*
 // @include      https://chat.meta.stackexchange.com/*
 //
-// @include https://*github.com/*
 //
 // @grant        GM_addStyle
 // @run-at       document-start
